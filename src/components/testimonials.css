@@ -1,0 +1,27 @@
+.container-testimonials {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.name-testimonial {
+    font-size: 1.3rem;
+
+}
+
+.cargo-testimonial {
+    font-size: 1.3rem;
+    margin-top: 13px;
+    padding-bottom: 30px;
+}
+
+.text-testimonial {
+    font-size: 1.2rem;
+    text-align: justify;
+    margin: 0 20px;
+}
